@@ -1,0 +1,13 @@
+<document>
+    <properties>
+        <title>gitworkshop</title>
+        <author email="indika.liyanage@ebuilder.lk">Indika Liyanage</author>
+    </properties>
+    <body>
+        <release version="0.0.1" date="2014-03-10">
+            <action dev="Indika" type="add">
+                Initial module for workshop
+            </action>
+        </release>
+    </body>
+</document>
